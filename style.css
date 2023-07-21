@@ -1,0 +1,21 @@
+body{
+background: #FF3333;
+}
+#camara{
+    width:500px;
+    height:400px;
+    border: solid 1px;
+}
+img{
+    width:40%;
+    padding: 10px;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+.footer{
+    position: fixed;
+    background: #6c757d;
+    color: #f5f5f5
+}
